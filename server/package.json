@@ -17,6 +17,12 @@
     "express": "^4.21.1",
     "mongoose": "^8.8.0",
     "nodemon": "^3.1.7",
-    "openai": "^4.71.0"
-  }
+    "openai": "^4.71.1"
+  },
+  "devDependencies": {
+      "eslint": "^8.31.0",
+      "eslint-config-airbnb-base": "^15.0.0",
+      "eslint-plugin-import": "^2.26.0"
+    }
 }
+
